@@ -1,19 +1,25 @@
 # Paperfly
+> 2018.05.29 Sungkonghoe University IT 경진대회 게임 부문으로 참가한 작품입니다.
 
-개발기간 : 약 2주
+## 🎮How to Play
+> macOS app 지원만 가능합니다.
+```bash
+open PF_2.0.0_mac_uni_450800.app
+```
 
-개발 인원 :
-- 성공회대학교 소프트웨어공학과 17학번 김유진
-  - 담당 역할 : 게임 그래픽 디자인
-- 성공회대학교 소프트웨어공학과 17학번 오혜성
-  - 담당 역할 : 게임 프로그래밍
-- 성공회대학교 소프트웨어공학과 17학번 허수진
-  - 담당 역할 : 게임 기획
+## 🧑🏻‍💻Team members
+- yujin Kim
+- hyesung Oh
+- sujin Heo
 
-개발 도구 : 
-- Unity
+## 🔨Dev environment
+- Unity3d.2017
+- C Sharp
 
-개발 언어 : 
-- C#
-
-*이 작품의 저작권은 성공회대학교 IT융합자율학부에 있습니다.*
+## 📱Features
+<p align="center">
+<img src="./readmes/main.png" height="300px" width="200px">
+<img src="./readmes/playing.png" height="300px" width="200px">
+<img src="./readmes/gameover.png" height="300px" width="200px">
+<img src="./readmes/credits.png" height="300px" width="200px">
+</p>
